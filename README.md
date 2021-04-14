@@ -3,13 +3,13 @@
 ### Добро пожаловать. Здесь будут новые гайды по нашим утилитам, справка по catABMS и прочая хуета.
 
 # Шапка команды catABMS
-``# CatABMS-type executable file<br/>
-author = "Суперпользователь Котопая 228"<br/>
-mode = "="<br/>
-deps = 'None'<br/>
-identificator = 'ping'<br/>
-command_ru = 'пинг'\<br/>
-description = 'Проверка ботa'``  
+<code><pre># CatABMS-type executable file
+author = "Суперпользователь Котопая 228"
+mode = "="
+deps = 'None'
+identificator = 'ping'
+command_ru = 'пинг'
+description = 'Проверка ботa'</code></pre>
 
 
 ### Теперь я вам расскажу о том, что из это что значит.
