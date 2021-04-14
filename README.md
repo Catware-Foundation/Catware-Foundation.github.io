@@ -1,7 +1,6 @@
 # Catware-Foundation
 
 ### Добро пожаловать. Здесь будут новые гайды по нашим утилитам, справка по catABMS и прочая хуета.
-
 # Шапка команды catABMS
 <code><pre># CatABMS-type executable file
 author = "Суперпользователь Котопая 228"
@@ -10,7 +9,6 @@ deps = 'None'
 identificator = 'ping'
 command_ru = 'пинг'
 description = 'Проверка ботa'</code></pre>
-
 
 ### Теперь я вам расскажу о том, что из это что значит.
 | Заголовок | Описание | Возможные значения |
