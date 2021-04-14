@@ -3,18 +3,12 @@
 ### Добро пожаловать. Здесь будут новые гайды по нашим утилитам, справка по catABMS и прочая хуета.
 
 # Шапка команды catABMS
-``# CatABMS-type executable file
-
-author = "Суперпользователь Котопая 228"
-
-mode = "="
-
-deps = 'None'
-
-identificator = 'ping'
-
-command_ru = 'пинг'
-
+``# CatABMS-type executable file\n
+author = "Суперпользователь Котопая 228"\n
+mode = "="\n
+deps = 'None'\n
+identificator = 'ping'\n
+command_ru = 'пинг'\n
 description = 'Проверка ботa'``
 
 
