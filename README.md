@@ -2,13 +2,13 @@
 
 ### Добро пожаловать. Здесь будут новые гайды по нашим утилитам, справка по catABMS и прочая хуета.
 # Шапка команды catABMS
-<code><pre># CatABMS-type executable file
+<code># CatABMS-type executable file
 author = "Суперпользователь Котопая 228"
 mode = "="
 deps = 'None'
 identificator = 'ping'
 command_ru = 'пинг'
-description = 'Проверка ботa'</code></pre>
+description = 'Проверка ботa'</code>
 
 ### Теперь я вам расскажу о том, что из это что значит.
 | Заголовок | Описание | Возможные значения |
